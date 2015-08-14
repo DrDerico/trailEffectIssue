@@ -1,0 +1,1 @@
+Demo of issue in FlxTrailArea - when sprite, added in FlxTrailArea, has offset.x or offset.y not equal to 0, trail of the sprite doesn't apply offset
